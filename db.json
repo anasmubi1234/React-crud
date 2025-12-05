@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "3",
+      "name": "Irfan",
+      "email": "gopal@gmail.com",
+      "phone": 8756342190,
+      "course": "JAVA"
+    },
+    {
+      "id": "4",
+      "name": "anas",
+      "email": "anan@gmail.com",
+      "phone": "90095535",
+      "course": "MERN"
+    },
+    {
+      "id": "5",
+      "name": "husain",
+      "email": "husa@gmail.com",
+      "phone": "1234567890",
+      "course": "JAVA"
+    },
+    {
+      "id": "6",
+      "name": "Asmath",
+      "email": "asma@gmail.com",
+      "phone": "123456",
+      "course": "JAVA"
+    },
+    {
+      "id": "7",
+      "name": "Ismail",
+      "email": "isma@gmail.com",
+      "phone": "07834560967",
+      "course": "mern"
+    },
+    {
+      "id": "f",
+      "name": "dg",
+      "email": "dgf@gmail.fyh",
+      "phone": "df",
+      "course": "dd"
+    }
+  ]
+}
